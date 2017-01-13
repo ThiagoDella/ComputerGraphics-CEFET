@@ -157,3 +157,8 @@ As you can see, I had a solid big fancy castle! But the sun was not shining my k
 
 Now was time to play around with camera, let's simulate that we are at the Castle's main gate!
 ![castleLightCam]
+
+### End
+That was how I learned the basics of Graphic Computing in 3 weeks of study with PyOpenGL before reaching my country and University. 
+
+You can read my my full report (in Portuguese) [here](https://drive.google.com/file/d/0B0yZCFuI97VkS2dVc2RpR2s5WFJIRFNoRWt4SHloeE55dzYw/view?usp=sharing).
