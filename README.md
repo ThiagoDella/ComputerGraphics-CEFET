@@ -9,7 +9,7 @@
 [castleLightCam]:https://i.imgsafe.org/8b77b9ca42.jpg
 
 
-# ComputacaoGrafica-CEFET
+# ComputerGraphics-CEFET
 This repository was dedicated to my works at Computer graphics class while doing my Bachelors in Computer Science in CEFET-RJ.
 
 **All programs here were written using OpenGL for Python.**
