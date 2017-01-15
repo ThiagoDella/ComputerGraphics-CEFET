@@ -10,12 +10,12 @@
 
 
 # ComputacaoGrafica-CEFET
-This repository was dedicated to my works at Graphic Computing class while doing my Bachelors in Computer Science in CEFET-RJ.
+This repository was dedicated to my works at Computer graphics class while doing my Bachelors in Computer Science in CEFET-RJ.
 
 **All programs here were written using OpenGL for Python.**
 
 ## Prologue
-In the beginning of this class, I was doing a student exchange program in Germany, sponsored by the brazilian government. Thats why I needed to figure it out how to learn Graphic Computing whitout the Professor's help. So I started learning from the very basics of this subject till something more complex.
+In the beginning of this class, I was doing a student exchange program in Germany, sponsored by the brazilian government. Thats why I needed to figure it out how to learn Computer graphics whitout the Professor's help. So I started learning from the very basics of this subject till something more complex.
 
 ### Points.py
 Nothing could be easier to create in Computer Graphics as some bunch of points on screen. But it was so easy to create that I connected those points with lines too. Creating a sort of "art" (at least for the "early me" on the past).
@@ -159,6 +159,6 @@ Now was time to play around with camera, let's simulate that we are at the Castl
 ![castleLightCam]
 
 ### End
-That was how I learned the basics of Graphic Computing in 3 weeks of study with PyOpenGL before reaching my country and University. 
+That was how I learned the basics of Computer graphics in 3 weeks of study with PyOpenGL before reaching my country and University. 
 
 You can read my my full report (in Portuguese) [here](https://drive.google.com/file/d/0B0yZCFuI97VkS2dVc2RpR2s5WFJIRFNoRWt4SHloeE55dzYw/view?usp=sharing).
