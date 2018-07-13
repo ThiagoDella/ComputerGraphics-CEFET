@@ -1,12 +1,12 @@
-[points]:https://i.imgsafe.org/8a9f246807.png
-[teapot]:https://i.imgsafe.org/8ab27cddb5.png
-[sendlingerTor]:https://i.imgsafe.org/8b77f21172.jpg
-[sendlingerTorLines]:https://i.imgsafe.org/8b77d70a2f.jpg
-[sendlingerTorSolid]:https://i.imgsafe.org/8b77d063ab.jpg
-[castleColors]:https://i.imgsafe.org/8b779aacb5.jpg
-[castleColorsCam]:https://i.imgsafe.org/8b77a72eb6.jpg
-[castleLight]:https://i.imgsafe.org/8b77ad4f11.jpg
-[castleLightCam]:https://i.imgsafe.org/8b77b9ca42.jpg
+[points]:images/points.png
+[teapot]:images/teapot.png
+[sendlingerTor]:images/sendlingerTor.png
+[sendlingerTorLines]:images/sendlingerTorLines.png
+[sendlingerTorSolid]:images/sendlingerTorSolid.png
+[castleColors]:images/castleColors.png
+[castleColorsCam]:images/castleColorsCam.png
+[castleLight]:images/castleLight.png
+[castleLightCam]:images/castleLightCam.png
 
 
 # ComputerGraphics-CEFET
